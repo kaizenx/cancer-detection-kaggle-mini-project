@@ -1,0 +1,9 @@
+data/
+model/
+.png
+.csv
+lib/
+lib64
+share/
+bin/
+include/
